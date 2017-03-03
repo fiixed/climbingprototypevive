@@ -6,7 +6,7 @@ This is a VR climbing prototype for the HTC VIVE
 
 Clone the GitHub repository
 
-$ git clone https://github.com/fiixed/climbingprototypevive.git
+`$ git clone https://github.com/fiixed/climbingprototypevive.git`
 
 Open the project in Unity 5.4.0 or later
 
